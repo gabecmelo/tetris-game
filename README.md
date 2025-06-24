@@ -44,6 +44,6 @@ O jogo acelera conforme sua pontuação aumenta. Quando as peças alcançarem o 
 
 ---
 
-## Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a **MIT License © 2025**. Veja o arquivo [LICENSE](LICENSE) para detalhes completos.
